@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <?php
+        $txt1 = "PHP";
+$txt2 = "srinidhi";
+$x = 28;
+$y = 27;
+print "<h2>$txt1</h2>";
+print "PHP by $txt2<br>";
+print "The added output is";
+print $x + $y ;
+        ?>
+    </body>
+</html>
+
+
+
+
+
